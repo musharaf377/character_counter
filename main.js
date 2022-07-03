@@ -11,3 +11,5 @@ txt.addEventListener("input", function(){
     }
     result.innerText = character;
 })
+
+
